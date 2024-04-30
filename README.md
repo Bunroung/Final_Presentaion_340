@@ -1,7 +1,7 @@
 # Final_Presentaion_340
 
 
-Administrator (Sara) - Use Cases: User Management & Content Oversight 
+Administrator (Sara) - Use Cases: User Management & Content Oversight :
 
   
 
@@ -15,7 +15,7 @@ Sara exits after ensuring all content on the platform is compliant with guidelin
 
  
 
-Fitness Coach (Fady) - Use Cases: Create Fitness/Meal Plan & Plan Delivery/Release to User 
+Fitness Coach (Fady) - Use Cases: Create Fitness/Meal Plan & Plan Delivery/Release to User: 
 
   
 
@@ -27,7 +27,7 @@ Fady waits for pending approval and when approved, uploads to user's dashboard t
 
  
 
-Content Creator (Amna) - Use Cases: User Engagement & Content Creation and Promotion 
+Content Creator (Amna) - Use Cases: User Engagement & Content Creation and Promotion :
 
  
 
@@ -39,7 +39,7 @@ Amna exists after ensuring both features are operational and engaging for users.
 
  
 
-User/Client (Bun) - Use Cases: Updating/Deleting User Profile & User Journey 
+User/Client (Bun) - Use Cases: Updating/Deleting User Profile & User Journey :
 
   
 
