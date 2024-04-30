@@ -50,3 +50,14 @@ Bun then edit the personal information of the account.
 Bun interacts with the promotions page, and navigates the dashboard and check BMI. 
 
 Bun logs out.  
+
+
+
+
+Instructions on how to run this web app: LOGIN as admin: username: sara_admin password: saraadmin
+LOGIN as admin: username: Fadyeskandr password: Fadyeskand2
+LOGIN as admin: username: Amna_creator password: amnacreator
+LOGIN as admin: username: Bunrong_user password: userp
+make sure files_db is in data base and all the informatoion for users and employees the table is called "user" NOT user_seq
+
+
